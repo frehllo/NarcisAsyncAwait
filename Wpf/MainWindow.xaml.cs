@@ -71,11 +71,11 @@ namespace Wpf
             }
             if (primo == false)
             {
-                lblPrimo.Content = "Non è primo!";
+                lblPrimo.Content = "Non è primo!!!";
             }
             else
             {
-                lblPrimo.Content = "E' primo!";
+                lblPrimo.Content = "E' primo!!!";
             }
         }
     }
